@@ -1,4 +1,4 @@
-package com.example.ronny.myapplication;
+package com.example.redes.myapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
